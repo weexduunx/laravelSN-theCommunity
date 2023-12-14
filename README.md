@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/github/forks/weexduunx/laravelSN-theCommunity" alt="Forkable">
 </a>
 <a href="#">
-    <img src="https://img.shields.io/github/watchers/weexduunx/laravelSN-theCommunity
-" alt="Watchers">
+    <img src="https://img.shields.io/github/watchers/weexduunx/laravelSN-theCommunity" alt="Watchers">
 </a>
 <a href="https://packagist.org/packages/laravel/framework">
     <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
