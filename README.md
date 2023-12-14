@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
 </a> -->
 <a href="https://packagist.org/packages/laravel/framework">
-    <img src="https://img.shields.io/github/forks/:user/:repo" alt="Forkable">
+    <img src="https://img.shields.io/github/forks/:weexduunx/:laravelSN-theCommunity" alt="Forkable">
 </a>
 <a href="https://packagist.org/packages/laravel/framework">
     <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
