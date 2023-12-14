@@ -12,12 +12,15 @@
 <a href="#">
     <img src="https://img.shields.io/github/watchers/weexduunx/laravelSN-theCommunity" alt="Watchers">
 </a>
+<a href="#">
+    <img src="https://img.shields.io/github/stars/weexduunx/laravelSN-theCommunity" alt="Stars">
+</a>
 <a href="https://packagist.org/packages/laravel/framework">
     <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
 </a>
 </p>
 
-# laravelSN-community
+# laravel SN - The Community Platform
 
 ## Brève Description
 
