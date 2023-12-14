@@ -6,11 +6,12 @@
 <a href="https://github.com/laravel/framework/actions">
     <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
 </a>
-<!-- <a href="https://packagist.org/packages/laravel/framework">
-    <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
-</a> -->
-<a href="https://packagist.org/packages/laravel/framework">
-    <img src="https://img.shields.io/github/forks/:weexduunx/:laravelSN-theCommunity" alt="Forkable">
+<a href="#">
+    <img src="https://img.shields.io/github/forks/weexduunx/laravelSN-theCommunity" alt="Forkable">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/github/all-contributors/weexduunx/laravelSN-theCommunity
+" alt="Contibutors">
 </a>
 <a href="https://packagist.org/packages/laravel/framework">
     <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
